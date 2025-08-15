@@ -886,10 +886,10 @@
         <div class="products">
             <div class="product-card">
                 <span class="product-badge">New</span>
-                <img src="https://www.instagram.com/accounts/login/?hl=en" alt="Instagram" class="product-img">
+                <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fkvrpotluri%2Fayodhya-lord-shri-raam%2F&psig=AOvVaw0wVyJOQeKajl97MSe3sriq&ust=1755317293701000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCG3dD4i48DFQAAAAAdAAAAABAE" class="product-img">
                 <div class="product-info">
-                    <h3>iPhone 17 Pro Max</h3>
-                    <div class="price">$3299 <span class="old-price">$1,199</span></div>
+                    <h3>Lord Ram</h3>
+                    <div class="price">$299 <span class="old-price">$1,199</span></div>
                     <div class="rating">★★★★★ <span>(128)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
