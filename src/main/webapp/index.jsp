@@ -886,10 +886,10 @@
         <div class="products">
             <div class="product-card">
                 <span class="product-badge">New</span>
-                <img src="https://in.pinterest.com/pin/607352699782662462/" class="product-img">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQa5XUXq6AvXNNBCxFRZKMP-YoStHrX4JOQYhpUC2zN1WRonor3ZDjboU&s" class="product-img">
                 <div class="product-info">
                     <h3>Lord Ram</h3>
-                    <div class="price">$299 <span class="old-price">$1,199</span></div>
+                    <div class="price">$599 <span class="old-price">$1,199</span></div>
                     <div class="rating">★★★★★ <span>(128)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
