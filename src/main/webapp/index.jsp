@@ -886,7 +886,7 @@
         <div class="products">
             <div class="product-card">
                 <span class="product-badge">New</span>
-                <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fkvrpotluri%2Fayodhya-lord-shri-raam%2F&psig=AOvVaw0wVyJOQeKajl97MSe3sriq&ust=1755317293701000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCG3dD4i48DFQAAAAAdAAAAABAE" class="product-img">
+                <img src="https://in.pinterest.com/pin/607352699782662462/" class="product-img">
                 <div class="product-info">
                     <h3>Lord Ram</h3>
                     <div class="price">$299 <span class="old-price">$1,199</span></div>
