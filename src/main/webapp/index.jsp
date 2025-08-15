@@ -886,7 +886,7 @@
         <div class="products">
             <div class="product-card">
                 <span class="product-badge">New</span>
-                <img src="https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Smartphone" class="product-img">
+                <img src="https://www.instagram.com/accounts/login/?hl=en" alt="Instagram" class="product-img">
                 <div class="product-info">
                     <h3>iPhone 17 Pro Max</h3>
                     <div class="price">$3299 <span class="old-price">$1,199</span></div>
